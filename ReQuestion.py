@@ -3,7 +3,7 @@ import os
 
 #Verificar se há questões para hoje
 def VerificarQuestoes():
-    print("Esse recurso ainda não funciona, mas você pode usar um bloco de notas ;)")
+    print("Esse recurso ainda não funciona, mas por enquanto você pode usar um bloco de notas ;)")
 
 # Função para adicionar uma questão
 def AdicionarQuestao():

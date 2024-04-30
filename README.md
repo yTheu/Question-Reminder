@@ -13,7 +13,7 @@ Este é um projeto pessoal que estou utilizando para aprender mais sobre a lingu
 
 ## Instalação
 
-1. Certifique-se de ter o Python instalado em seu sistema. Você pode baixar o Python em python.org.
+1. Certifique-se de ter o Python instalado em seu sistema. Você pode baixar o Python em <a href="https://www.python.org/">python.org</a>
 2. Clone ou faça o download deste repositório para o seu computador.
 
 ## Uso
